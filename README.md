@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3column-preview-card-SgBfXjHCR6)
-- Live Site URL: [Vercel](https://3columnpreviewcard-zeta.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/profile-card-component-iiD6R6Ib7l)
+- Live Site URL: [Vercel](https://profilecardcomponent-three.vercel.app/)
 
 ## My process
 
